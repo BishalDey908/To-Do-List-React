@@ -14,9 +14,7 @@ export default function Tasks(props){
             props.onSelect(props.id)  //deleteItems(id)
         }}></i>
 
-        <i class="fa-solid fa-pen-to-square" onClick={()=>{
-            props.onSelect1(props.id) 
-        }}></i>
+        
 
         </div >
         </div>
